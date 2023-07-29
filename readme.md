@@ -1,0 +1,1 @@
+运行sql语言时候，需要注意navciat只有utf8mb4_general_ci没有utf8mb4_0900_ai_ci;需要将后者改为前者，我已经改好了
